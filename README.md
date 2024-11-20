@@ -42,3 +42,5 @@
   </a>
 </p>
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JPBerrio&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBerrio&theme=blueberry_duo"/>
