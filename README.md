@@ -33,7 +33,7 @@
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,gradle,mysql,postgres,fastapi,supabasee&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,gradle,mysql,postgres,fastapi,supabase&perline=6" />
   </a>
 
   <h2>:wrench: Tools</h2>
