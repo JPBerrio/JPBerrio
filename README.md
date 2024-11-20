@@ -24,7 +24,7 @@
 </p>
 <br>
 
-<h2 align="center">known technologies</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <h2>:star2: Front End</h2>
