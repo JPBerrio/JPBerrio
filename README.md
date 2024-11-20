@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I am Juan Pablo Berrio</strong> </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+Juan+Pablo+berrio+Profile!!;Bienvenido+a+mi+perfil!;!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+Juan+Pablo+Berrio+Profile!!;Bienvenido+a+mi+perfil!;!" /></a>
 </p>
 
 <p align="center">
