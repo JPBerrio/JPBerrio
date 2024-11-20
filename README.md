@@ -43,8 +43,7 @@
 </p>
 <br>
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JPBerrio&&show_icons=true&count_private=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBerrio&theme=blueberry_duo" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=JPBerrio&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBerrio&layout=compact&theme=github_dark"/></p>
+<img align="right" height="200px" width="500px" src="https://i.imgur.com/g0fixOT.jpg">
 
