@@ -20,7 +20,7 @@
 
 💻 I have personal projects in JAVA | SPRING FRAMEWORK | REACT | POSTGRESQL
 
-📫 Contacto: **pablob1412@gmail.com**
+📫 Contact: **pablob1412@gmail.com**
 </p>
 <br>
 
