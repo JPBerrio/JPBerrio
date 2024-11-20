@@ -24,7 +24,7 @@
 </p>
 <br>
 
-<h2 align="center">Skills</h2>
+<h1 align="center">Skills</h1>
 
 <p align="center">
   <h2>:star2: Front End</h2>
