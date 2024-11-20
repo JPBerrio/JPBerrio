@@ -43,6 +43,12 @@
 </p>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JPBerrio&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBerrio&layout=compact&theme=github_dark"/></p>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/JPBerrio">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JPBerrio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JPBerrio&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
